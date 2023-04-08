@@ -1,0 +1,11 @@
+node_modules/
+coverage
+test
+app-error-*.log
+app-info-*.log
+uncaughtExceptions-*.log
+combined-*.log
+
+# Local Netlify folder
+.netlify
+.env
